@@ -1,2 +1,0 @@
-# lazycc
-null
