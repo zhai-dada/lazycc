@@ -7,6 +7,6 @@ test:stupidcc
 	./test.sh
 
 clean:
-	rm -f stupidcc *.o *~ tmp*
+	rm -f stupidcc *.o *~ tmp* a.out
 
 .PHONY: test clean
